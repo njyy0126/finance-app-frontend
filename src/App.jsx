@@ -8,7 +8,7 @@ import { PieChart, Pie, Cell, ResponsiveContainer, Tooltip as RechartsTooltip, L
 const USE_MOCK_DATA = false; 
 
 // 2. NOTE THE PORT 5001 (Fix for Mac users)
-const API_URL = "https://finance-app-backend-vmt5.onrender.com";
+const API_URL = "https://finance-app-backend-vmt5.onrender.com/api/transcations";
 
 // --- MOCK DATA ---
 const INITIAL_MOCK_DATA = [
